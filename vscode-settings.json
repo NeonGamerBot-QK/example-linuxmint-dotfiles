@@ -1,0 +1,25 @@
+{
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "block-outline",
+    "files.associations": {
+        "*.ejs": "html"
+    },
+    "editor.fontWeight": "500",
+    "editor.defaultColorDecorators": true,
+    "editor.linkedEditing": true,
+    "editor.padding.bottom": 2,
+    "editor.padding.top": 2,
+    "editor.renderLineHighlightOnlyWhenFocus": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.formatOnSave": true,
+    "files.eol": "\r\n",
+    "workbench.list.smoothScrolling": true,
+    "editor.renderWhitespace": "all",
+    "terminal.integrated.fontFamily": "monospace",
+    "glassit.alpha": 220
+}
